@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+.env
+.DS_Store
+
+admin.json
+
+# Logs
+logs
+*.log
+
+# Build
+dist/
+build/
+
+# React dev server cache
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Runtime
+*.pid
+*.seed
+*.gz
+
+# OS
+Thumbs.db
+
+structure.txt
+
+admin.json
